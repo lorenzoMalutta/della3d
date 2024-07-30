@@ -67,3 +67,8 @@ O código apresentado é um exemplo de aplicação utilizando a biblioteca Three
 - A função `main` é chamada para iniciar o aplicativo.
 
 - Esta função reúne todos os processos descritos acima e cria a cena interativa 3D.
+
+
+https://github.com/user-attachments/assets/7ca245f9-e497-4a70-a4db-1c9e8d952e16
+
+
